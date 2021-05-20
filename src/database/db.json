@@ -1,0 +1,16 @@
+{
+  "book": [
+    {
+      "name": "Oreo xxccxz",
+      "price": "1800",
+      "description": "maleeas",
+      "id": 1
+    },
+    {
+      "name": "ReactJS",
+      "price": "5400",
+      "description": "best",
+      "id": 2
+    }
+  ]
+}
