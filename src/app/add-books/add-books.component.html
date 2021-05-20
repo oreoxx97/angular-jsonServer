@@ -3,6 +3,10 @@
     <h1>Add Book</h1>
   </div>
 
+  <div *ngFor="let item of Htmls">
+    <div [innerHTML]=item.contents></div>
+  </div>
+
   <div class="row justify-content center mt-3">
     <div class="col-md-4">
       <form [formGroup]="bookForm" (ngSubmit)="onSubmit()">

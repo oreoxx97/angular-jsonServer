@@ -12,5 +12,11 @@
       "description": "best",
       "id": 2
     }
+  ],
+  "htmlEditor":[
+    {
+      "classes":"d-flex justify-content between flex-md-nowarp align-items-center pt-3 pb-2 mb-3 border-bottom",
+      "contents":"%3Cdiv%20class=%22d-flex%20justify-content%20between%20flex-md-nowarp%20align-items-center%20pt-3%20pb-2%20mb-3%20border-bottom%22%3E%3Ch1%3EAdd%20zxczxcczxczczczczczxc%3C/h1%3E%3C/div%3E"
+    }
   ]
 }
